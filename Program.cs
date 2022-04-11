@@ -6,7 +6,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            int a = 1; //задание 1
+            int a = 1;
             double b = 2; // вещественная переменная и присвоить ей любое значение
             var c = 34;
            
