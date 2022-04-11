@@ -9,7 +9,7 @@ namespace ConsoleApp3
             int a = 1;
             double b = 2; 
             var d = 34;
-           
+            Console.WriteLine($" {a}  {b}  {d}");
         }
     }
 }
