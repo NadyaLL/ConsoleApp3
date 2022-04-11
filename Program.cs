@@ -12,8 +12,7 @@ namespace ConsoleApp3
             Console.WriteLine($" {a}  {b}  {d}");
             a = 1 * 1;
             Console.WriteLine(a);
-            int c = 12 / 4;
-            Console.WriteLine(c);
+            Console.WriteLine(12%4);
         }
     }
 }
