@@ -10,6 +10,8 @@ namespace ConsoleApp3
             double b = 2; 
             var d = 34;
             Console.WriteLine($" {a}  {b}  {d}");
+            a = 1 * 1;
+            Console.WriteLine(a);
         }
     }
 }
