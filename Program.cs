@@ -8,7 +8,7 @@ namespace ConsoleApp3
         {
             int a = 1;
             double b = 2; 
-            var c = 34;
+            var d = 34;
            
         }
     }
