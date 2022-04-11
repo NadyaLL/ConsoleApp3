@@ -13,6 +13,9 @@ namespace ConsoleApp3
             a = 1 * 1;
             Console.WriteLine(a);
             Console.WriteLine(12%4);
+           int c = Convert.ToInt32(Console.ReadLine());
+           int e = Convert.ToInt32(Console.ReadLine());
+           int f = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
